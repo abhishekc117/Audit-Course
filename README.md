@@ -1,1 +1,2 @@
 # Audit-Course
+This is an informative website made to spread knowledge about various conspiracies happening around us.This is a part of an Audit Course named “Industry Ready Web Developer” in which I have used Basic HTML and CSS to create a raw layout of the website and futher improvisations are needed to make it more dynamic and ready to use which will be done as we approach futher levels. Below attached are the screenshots of the work done till now.
